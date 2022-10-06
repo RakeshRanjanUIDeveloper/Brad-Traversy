@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Rakesh",
+        "Company": "Accenture",
+        "Phone": 9986961101
+    },
+    {
+        "id": 2,
+        "name": "Ranjan",
+        "Company": "Accenture",
+        "Phone": 9986961101
+    },
+    {
+        "id": 3,
+        "name": "Misu",
+        "Company": "Accenture",
+        "Phone": 9986961101
+    }
+]
